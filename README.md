@@ -1,5 +1,5 @@
 # project_zuber
-SQL - Compañías de taxis: Preferencias de los pasajeros y el impacto de los factores externos en los viajes / SQL - Taxi Companies: Passenger Preferences and the Impact of External Factors on Rides
+Compañías de taxis: Preferencias de los pasajeros y el impacto de los factores externos en los viajes / Taxi Companies: Passenger Preferences and the Impact of External Factors on Rides
 
 Proyecto hecho para TripleTen (Bootcamp online) - Sprint 8. Recopilación y almacenamiento de datos (SQL) / Project completed for TripleTen (Online Bootcamp) - Sprint 8. Data Collection and Storage (SQL).
 
