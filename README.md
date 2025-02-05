@@ -1,8 +1,8 @@
 # Zuber-Chicago-Taxi-Data-Analysis
 
-Proyecto hecho para TripleTen (Bootcamp online) - Sprint 8. Recopilación y almacenamiento de datos (SQL) 
+Proyecto hecho para TripleTen (Bootcamp online) 
 
-Project completed for TripleTen (Online Bootcamp) - Sprint 8. Data Collection and Storage (SQL).
+Project completed for TripleTen (Online Bootcamp) 
 
 ## Proyecto: Análisis de viajes en taxi en Chicago
 
@@ -15,8 +15,9 @@ This project analyzes Chicago cab trip data to understand how weather conditions
 1. Python: Utilizado para el análisis de datos. / Used for data analysis.
   - pandas: Para manipulación de datos. / For data manipulation.
   - matplotlib: Para visualización de datos. / For data visualization.
-2. SQL: Para la consulta de bases de datos y extracción de datos. / For database querying and data extraction.
-3. Jupyter Notebooks: Para organizar el análisis de manera interactiva. / To organize the analysis in an interactive way.
+  - numpy: Para cálculos numéricos y manejo de arreglos. / For numerical computations and array handling.
+  - scipy: Para realizar pruebas estadísticas y análisis de correlación. / For statistical tests and correlation analysis.
+2. Jupyter Notebooks: Para organizar el análisis de manera interactiva. / To organize the analysis in an interactive way.
 
 ## Objetivo / Objective
 El objetivo de este proyecto es investigar cómo las condiciones meteorológicas influyen en la duración de los viajes en taxi y proporcionar insights basados en estos datos.
